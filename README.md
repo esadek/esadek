@@ -1,6 +1,6 @@
 ### Hi, I'm Emil 👨‍💻
 
 👨‍🎓 Studying Cognitive Science at UC Santa Cruz  
-🔭 Working on Data Science and Engineering Projects  
-🌱 Learning about Deep Learning and Algorithms  
+🔭 Working on Data Engineering Projects  
+🌱 Learning about Big Data and Algorithms  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emil-sadek/)
